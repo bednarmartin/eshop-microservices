@@ -1,0 +1,6 @@
+include("order-service")
+include("product-service")
+include("review-service")
+include("stock-service")
+include("product-composite-service")
+include("api")
